@@ -1,0 +1,15 @@
+D:\Projetos\Enum\Enum\bin\Debug\net7.0\Enum.exe
+D:\Projetos\Enum\Enum\bin\Debug\net7.0\Enum.deps.json
+D:\Projetos\Enum\Enum\bin\Debug\net7.0\Enum.runtimeconfig.json
+D:\Projetos\Enum\Enum\bin\Debug\net7.0\Enum.dll
+D:\Projetos\Enum\Enum\bin\Debug\net7.0\Enum.pdb
+D:\Projetos\Enum\Enum\obj\Debug\net7.0\Enum.csproj.AssemblyReference.cache
+D:\Projetos\Enum\Enum\obj\Debug\net7.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Enum\Enum\obj\Debug\net7.0\Enum.AssemblyInfoInputs.cache
+D:\Projetos\Enum\Enum\obj\Debug\net7.0\Enum.AssemblyInfo.cs
+D:\Projetos\Enum\Enum\obj\Debug\net7.0\Enum.csproj.CoreCompileInputs.cache
+D:\Projetos\Enum\Enum\obj\Debug\net7.0\Enum.dll
+D:\Projetos\Enum\Enum\obj\Debug\net7.0\refint\Enum.dll
+D:\Projetos\Enum\Enum\obj\Debug\net7.0\Enum.pdb
+D:\Projetos\Enum\Enum\obj\Debug\net7.0\Enum.genruntimeconfig.cache
+D:\Projetos\Enum\Enum\obj\Debug\net7.0\ref\Enum.dll

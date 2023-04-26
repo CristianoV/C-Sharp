@@ -1,0 +1,15 @@
+D:\Projetos\C#\Network\Network\bin\Debug\net7.0\Network.exe
+D:\Projetos\C#\Network\Network\bin\Debug\net7.0\Network.deps.json
+D:\Projetos\C#\Network\Network\bin\Debug\net7.0\Network.runtimeconfig.json
+D:\Projetos\C#\Network\Network\bin\Debug\net7.0\Network.dll
+D:\Projetos\C#\Network\Network\bin\Debug\net7.0\Network.pdb
+D:\Projetos\C#\Network\Network\obj\Debug\net7.0\Network.csproj.AssemblyReference.cache
+D:\Projetos\C#\Network\Network\obj\Debug\net7.0\Network.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C#\Network\Network\obj\Debug\net7.0\Network.AssemblyInfoInputs.cache
+D:\Projetos\C#\Network\Network\obj\Debug\net7.0\Network.AssemblyInfo.cs
+D:\Projetos\C#\Network\Network\obj\Debug\net7.0\Network.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Network\Network\obj\Debug\net7.0\Network.dll
+D:\Projetos\C#\Network\Network\obj\Debug\net7.0\refint\Network.dll
+D:\Projetos\C#\Network\Network\obj\Debug\net7.0\Network.pdb
+D:\Projetos\C#\Network\Network\obj\Debug\net7.0\Network.genruntimeconfig.cache
+D:\Projetos\C#\Network\Network\obj\Debug\net7.0\ref\Network.dll
