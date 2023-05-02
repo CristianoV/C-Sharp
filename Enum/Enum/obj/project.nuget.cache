@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sPmo2WNUBI6TYHJ7tu+vq+sdlOdFSYNxwQZh8XyJJsW0Oi9UGH35z7zvbc4MYWjhpAD4IWowO9PmqCYUgjDakQ==",
+  "dgSpecHash": "sXyj1e5jKenAPJ5Oqgl9Fdgqf7wNYLdFSf0ofU0UEKenwOT2b1+sJ0MBOc9CKrgVV83fMHQnxS1V+5IOtox8Dw==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Enum\\Enum\\Enum.csproj",
+  "projectFilePath": "D:\\Projetos\\C#\\Enum\\Enum\\Enum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

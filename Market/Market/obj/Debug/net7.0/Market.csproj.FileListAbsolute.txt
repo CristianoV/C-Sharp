@@ -1,0 +1,15 @@
+D:\Projetos\C#\Market\Market\bin\Debug\net7.0\Market.exe
+D:\Projetos\C#\Market\Market\bin\Debug\net7.0\Market.deps.json
+D:\Projetos\C#\Market\Market\bin\Debug\net7.0\Market.runtimeconfig.json
+D:\Projetos\C#\Market\Market\bin\Debug\net7.0\Market.dll
+D:\Projetos\C#\Market\Market\bin\Debug\net7.0\Market.pdb
+D:\Projetos\C#\Market\Market\obj\Debug\net7.0\Market.csproj.AssemblyReference.cache
+D:\Projetos\C#\Market\Market\obj\Debug\net7.0\Market.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C#\Market\Market\obj\Debug\net7.0\Market.AssemblyInfoInputs.cache
+D:\Projetos\C#\Market\Market\obj\Debug\net7.0\Market.AssemblyInfo.cs
+D:\Projetos\C#\Market\Market\obj\Debug\net7.0\Market.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Market\Market\obj\Debug\net7.0\Market.dll
+D:\Projetos\C#\Market\Market\obj\Debug\net7.0\refint\Market.dll
+D:\Projetos\C#\Market\Market\obj\Debug\net7.0\Market.pdb
+D:\Projetos\C#\Market\Market\obj\Debug\net7.0\Market.genruntimeconfig.cache
+D:\Projetos\C#\Market\Market\obj\Debug\net7.0\ref\Market.dll

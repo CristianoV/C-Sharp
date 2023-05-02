@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\C#\\Enum\\Enum\\Enum.csproj": {}
+    "D:\\Projetos\\C#\\Market\\Market\\Market.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\C#\\Enum\\Enum\\Enum.csproj": {
+    "D:\\Projetos\\C#\\Market\\Market\\Market.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\C#\\Enum\\Enum\\Enum.csproj",
-        "projectName": "Enum",
-        "projectPath": "D:\\Projetos\\C#\\Enum\\Enum\\Enum.csproj",
+        "projectUniqueName": "D:\\Projetos\\C#\\Market\\Market\\Market.csproj",
+        "projectName": "Market",
+        "projectPath": "D:\\Projetos\\C#\\Market\\Market\\Market.csproj",
         "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\C#\\Enum\\Enum\\obj\\",
+        "outputPath": "D:\\Projetos\\C#\\Market\\Market\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio 2022\\Shared\\NuGetPackages"
